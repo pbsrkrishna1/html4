@@ -1,0 +1,31 @@
+Tables:
+tables are used to represent data in a simplier format.
+tables deal with rows(horizental) and columns(vertical).
+
+example: <table border="8">
+        <tr>
+            <th>Sno</th>
+            <th>Degree</th>
+            <th>College</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>bba</td>
+            <td>aditya</td>
+            <td>2022</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>mpc</td>
+            <td>aditya</td>
+            <td>2019</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>ssc</td>
+            <td>vzphs</td>
+            <td>2017</td>
+        </tr>
+    </table>
+    

@@ -1,0 +1,31 @@
+Lists:lists are use to list of certain items.
+HTML contains 3 types of list.
+1.Ordered list: list of items where order is important
+ eg: a.bala
+     b.siva
+     c.rama
+     d.krishna
+2.Unorder list: List of items where order is not important.
+skills:
+     skill.1     
+     skill.2
+     skill.3
+3.description list: list of events or items mentioned with reference .
+eg: A company's growth
+      1995-2000
+      company established
+      2001-2010
+      company went well
+      2011-2023
+      company got success
+      2024
+      company bankrupt 
+      
+      <ol>
+<li>xyz</li>
+<li>abc</li>
+    </ol>
+
+
+you can also give type attribute in 5 types
+"1","a","A","I","i" and also starts with any value attribute start.

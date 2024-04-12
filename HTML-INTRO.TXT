@@ -1,0 +1,9 @@
+What is HTML?
+HTML-Hyper Text Markup Language.HTML is used to develop skeleton/structure of the page.
+HTML uses tags for developing.
+HTML started from GML=>SGML=>HTML.started in 1992.current version is HTML5.
+HTML tags will have open or close.
+<tagname>----open tag.
+</tagname>---close tag.
+Whole HTML code will be between html open and html close tags.
+HTML will have head and body.
